@@ -19,7 +19,7 @@
 ## *Connect with me:* 
 <p align="center">
   <a href="https://www.linkedin.com/in/farah-selouane" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Farah%20Selouane-blue?style=flat&logo=linkedin">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-Farah%20Selouane-blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:selouanefarah.tech@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-selouanefarah.tech@gmail.com-blue?style=flat&logo=gmail">
