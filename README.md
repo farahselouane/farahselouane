@@ -19,12 +19,16 @@
 ## *Connect with me:* 
 <p align="center">
   <a href="https://www.linkedin.com/in/farah-selouane" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-Farah%20Selouane-blue?style=flat&logo=linkedin">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Farah%20Selouane-blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:selouanefarah.tech@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-selouanefarah.tech@gmail.com-blue?style=flat&logo=gmail">
   </a>
+  <a href="https://www.instagram.com/faraah_prv_" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@faraah_prv_-E4405F?style=flat&logo=instagram&logoColor=white">
+  </a>
 </p>
+
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900">
 <br><br>
