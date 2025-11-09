@@ -42,12 +42,12 @@
 </p>
 
 
-## GitHub Trophies
+## *GitHub Trophies:*
 
 ![](https://github-profile-trophy.vercel.app/?username=farahselouane&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 
-##  GitHub Stats:
+##  *GitHub Stats:*
 ![](https://github-readme-stats.vercel.app/api?username=farahselouane&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=farahselouane&theme=transparent&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=farahselouane&limit=5&theme=transparent&combine_all_yearly_contributions=true)
