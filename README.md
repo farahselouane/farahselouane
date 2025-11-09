@@ -29,9 +29,40 @@
   </a>
 </p>
 
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900">
 <br><br>
+
+
+## *Languages and Tools:*
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,c,figma,github,html,mysql,notion,pycharm,py,tensorflow,vscode,gmail,r,twitter,linkedinsklearn" />
+  </a>
+</p>
+
+
+## GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=farahselouane&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+
+##  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=farahselouane&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=farahselouane&theme=transparent&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=farahselouane&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
 
 
 
