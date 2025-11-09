@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farahselouane&label=Profile%20views&color=0e75b6&style=flat" alt="farahselouane" />
 		   <img src="https://img.shields.io/github/followers/farahselouane?label=Followers" alt="farahselouane" />
 
-## About me 
+## *About me:* 
 
 👩🏻‍💻 **Artificial Intelligence Student** sharing my learning journey in AI & data  
 📊 **Assistant Data Analyst** focused on data interpretation and visualization  
@@ -16,12 +16,18 @@
 💭 Currently learning **Python, Machine Learning, and Databases**  
 📩 Reach me at: **selouanefarah.tech@gmail.com**
 
+## *Connect with me:* 
+<p align="center">
+  <a href="https://www.linkedin.com/in/farah-selouane" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Farah%20Selouane-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:selouanefarah.tech@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-selouanefarah.tech@gmail.com-blue?style=flat&logo=gmail">
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farahselouane/farahselouane/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farahselouane/farahselouane/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farahselouane/farahselouane/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900">
+<br><br>
 
 
 
